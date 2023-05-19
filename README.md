@@ -6,6 +6,6 @@ Os exercicios foram feitos seguindo uma cronologia de estudo e por esse motivo a
 Exercícios sobre Introdução à Programação Orientada a Objetos </br>
 https://github.com/oaleekis/ExerciciosCSharpClasses/blob/master/Utilidades/primeiros-exercicios.pdf
 
-Exercícios sobre Classes, objetos e atributos: </br>
+Exercícios sobre Classes, objetos, atributos, métodos estaticos: </br>
 https://github.com/oaleekis/ExerciciosCSharpClasses/blob/master/Utilidades/04-classes-atributos-metodos-static.pdf
 
